@@ -1,2 +1,22 @@
+table,thead,tr,th
+{
+ border: 1px solid  rgb(204, 216, 238); 
+ color:rgb(231, 139, 116);  
+ border-spacing: 0px;
+ text-align: left;
+ width: 60%;
+ height: 35%;
+ 
+}
+table,tbody,tr,td{
+    border: 1px solid  rgb(204, 216, 238); 
+    text-align: left;
+    width: 60%;
+ height: 35%;
+ 
+}
+
+
+
 
 /* Your CSS Code here. */
